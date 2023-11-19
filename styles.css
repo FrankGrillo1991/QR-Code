@@ -1,11 +1,11 @@
 body {
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
+    display: grid;
+    min-height: 100vh;
 }
 
 .rectangle {
-    display: grid;
-    min-height: 100vh;
     border-radius: 22px;
     background-color: hsl(0, 0%, 100%);
     position: relative;
