@@ -42,7 +42,7 @@ p {
 .attribution {
     font-size: 11px;
     text-align: center;
-    position: relative;
+    position: absolute;
     bottom: 0;
 }
 
