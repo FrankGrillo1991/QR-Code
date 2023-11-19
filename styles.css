@@ -4,7 +4,7 @@ body {
 }
 
 .rectangle {
-    display: flex;
+    display: grid;
     min-height: 100vh;
     border-radius: 22px;
     background-color: hsl(0, 0%, 100%);
