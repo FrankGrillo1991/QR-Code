@@ -1,5 +1,4 @@
 body {
-    position: relative;
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
 }
@@ -9,6 +8,7 @@ body {
     height: 449px;
     border-radius: 22px;
     background-color: hsl(0, 0%, 100%);
+    position: relative;
     transform: translate(-50%, -50%);
     left: 50%;
     top: 50%;
