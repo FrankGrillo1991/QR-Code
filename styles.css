@@ -1,7 +1,7 @@
 body {
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
-    display: grid;
+    display: flex;
     min-height: 100vh;
 }
 
