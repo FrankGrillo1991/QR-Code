@@ -8,8 +8,6 @@ body {
 .rectangle {
     border-radius: 22px;
     background-color: hsl(0, 0%, 100%);
-    left: 50%;
-    top: 50%;
     padding: 30px;
 }
 
