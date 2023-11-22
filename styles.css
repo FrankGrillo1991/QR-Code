@@ -9,10 +9,14 @@ body {
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     min-height: 100vh;
 }
 
-.rectangle {
+.qr-card {
     border-radius: 22px;
     background-color: hsl(0, 0%, 100%);
     padding: 30px;
@@ -20,7 +24,7 @@ body {
 
 
 .box-img {
-    width: 100%;
+    max-width: 100%;
     border-radius: 10px;
 }
 
